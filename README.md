@@ -34,6 +34,6 @@ The purpose of this repository is to practice programming concepts, improve prob
 
 ## Author
 
-**[Your Name]**
+M. Nikhith Reddy
 
 B.Tech – Computer Science and Engineering
