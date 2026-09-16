@@ -4,12 +4,12 @@ This repository contains the assignments and programs completed as part of my ac
 
 ## Student Details
 
-* **Name:** [Your Name]
-* **Roll Number:** [Your Roll Number]
+* **Name:** M. Nikhith Reddy
+* **Roll Number cs25b030
 * **Course:** B.Tech
 * **Branch:** Computer Science and Engineering
-* **Subject:** [Subject Name]
-* **Semester:** [Semester]
+* **Subject:** DLD
+* **Semester:** 3
 
 ## About
 
